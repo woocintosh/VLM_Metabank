@@ -1,0 +1,13 @@
+model:
+  name: "mlx-community/Qwen3-VL-32B-Instruct-4bit"
+  fallback: "mlx-community/Qwen3-VL-7B-Instruct-4bit"
+
+paths:
+  images_dir: "/Volumes/Marie/Data/images"
+  output_csv: "Data/Labels.csv"
+  checkpoint: "Data/checkpoint.jsonl"
+  vocabulary: "vocabulary.json"
+
+pipeline:
+  batch_size: 16
+  max_retries: 3

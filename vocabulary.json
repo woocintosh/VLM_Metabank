@@ -1,0 +1,13 @@
+{
+  "Category": [
+    "Short sleeve top", "Long sleeve top", "Short sleeve outwear", "Long sleeve outwear",
+    "Vest", "Sling", "Shorts", "Trousers", "Skirt",
+    "Short sleeve dress", "Long sleeve dress", "Vest dress", "Sling dress"
+  ],
+  "Color": ["black", "white", "gray", "blue", "red", "green", "brown", "beige", "pink", "yellow"],
+  "Pattern": ["solid", "stripe", "check", "print", "floral", "graphic"],
+  "Style": ["casual", "formal", "street", "sport", "minimal", "vintage", "business"],
+  "Season": ["spring", "summer", "autumn", "winter"],
+  "Material": ["cotton", "denim", "wool", "leather", "polyester", "knit"],
+  "Fit": ["slim", "regular", "oversized", "loose", "cropped", "longline", "unknown"]
+}
